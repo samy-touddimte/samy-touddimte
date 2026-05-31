@@ -10,7 +10,7 @@
 
 ### Qui suis-je ?
 
-Étudiant en informatique avec une formation scientifique et ingénieur (**ESEO Paris-Vélizy** + **Licence Maths @ Paris-Saclay**)
+Étudiant en informatique avec une formation scientifique et ingénieur (**ESEO Paris-Vélizy** + **Licence Maths @ UVSQ**)
 
 - **Candidat BUT 3 Informatique** & alternance dev web/logiciel
 - **Île-de-France** · Disponible **septembre 2026**
