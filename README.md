@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Samy+%F0%9F%91%8B;Étudiant+en+informatique;Full-Stack+%7C+Java+%2B+React;Candidat+BUT+3+%26+Alternance+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Samy;Étudiant+en+informatique;Full-Stack+%7C+Data+Science;Candidat+BUT+3+%26+Alternance)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,13 +10,13 @@
 
 ### Qui suis-je ?
 
-Étudiant en informatique avec une formation scientifique et ingénieur (**ESEO Paris-Vélizy** + **Licence Maths @ Paris-Saclay**), je construis des applications full-stack avec une vraie attention portée à l'architecture logicielle et aux mathématiques appliquées.
+Étudiant en informatique avec une formation scientifique et ingénieur (**ESEO Paris-Vélizy** + **Licence Maths @ Paris-Saclay**)
 
-- 🎯 **Candidat BUT 3 Informatique** & alternance dev web/logiciel
-- 🌍 **Île-de-France** · Disponible **septembre 2026**
-- 🚀 Projet phare : **MacroTrack** — moteur métabolique avec algorithme EWMA
-- 🧮 Passionné par les maths appliquées au code
-- 🌐 Erasmus en Espagne · Anglais C1
+- **Candidat BUT 3 Informatique** & alternance dev web/logiciel
+- **Île-de-France** · Disponible **septembre 2026**
+- **Projet phare** : **MacroTrack** — moteur métabolique avec algorithme EWMA
+- **Passionné par les maths appliquées au code**
+- **Erasmus en Espagne** · Anglais C1
 
 ---
 
@@ -34,14 +34,16 @@
 
 ## 🚀 Projets
 
-<a href="https://github.com/samy-touddimte/MacroTrack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samy-touddimte&repo=MacroTrack&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/samy-touddimte/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samy-touddimte&repo=Portfolio&theme=tokyonight&hide_border=true" />
-</a>
+<div align="center">
 
-<br><br>
+| 🔬 MacroTrack | 🌐 Portfolio |
+|:---|:---|
+| Moteur métabolique full-stack avec algorithme EWMA | Site personnel de candidature |
+| `Java 21` `Spring Boot` `React 18` `Docker` `PostgreSQL` | `Next.js` `TypeScript` `Tailwind CSS` |
+| [![Demo](https://img.shields.io/badge/Demo-6366F1?style=flat-square&logo=vercel)](https://project-macrotrack.vercel.app) [![Code](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](https://github.com/samy-touddimte/MacroTrack) | [![Site](https://img.shields.io/badge/Site-000000?style=flat-square&logo=vercel)](https://portfolio-samy-touddimte.vercel.app) [![Code](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](https://github.com/samy-touddimte/Portfolio) |
+
+</div>
+
 
 ### 🔬 MacroTrack — Moteur métabolique intelligent
 
@@ -61,6 +63,8 @@
 ![Streak](https://streak-stats.demolab.com?user=samy-touddimte&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=fr)
 
 ![Trophées](https://github-profile-trophy.vercel.app/?username=samy-touddimte&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)
+
+![Profil](https://github-readme-stats.vercel.app/api?username=samy-touddimte&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=fr)
 
 </div>
 
