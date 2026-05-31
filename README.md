@@ -66,6 +66,14 @@ Portfolio de candidature construit avec Next.js et TypeScript, déployé sur Ver
 
 ---
 
+## 📊 Stats GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=samy-touddimte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
+
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=samy-touddimte&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+---
+
 ## 📬 Me contacter
 
 Disponible pour une alternance en développement web ou logiciel à partir de **septembre 2026** en Île-de-France.
