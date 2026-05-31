@@ -44,16 +44,6 @@
 
 </div>
 
-
-### MacroTrack — Moteur métabolique intelligent
-
-> Application full-stack de suivi nutritionnel basée sur un algorithme EWMA pour modéliser la dépense énergétique réelle. Couverture de tests > 70%, pipeline CI/CD complet.
-
-`Java 21` `Spring Boot 3` `React 18` `PostgreSQL` `Flyway` `Docker` `JWT` `Bucket4j`
-
-[![Demo](https://img.shields.io/badge/🌐_Demo_Live-project--macrotrack.vercel.app-6366F1?style=for-the-badge)](https://project-macrotrack.vercel.app)
-[![Repo](https://img.shields.io/badge/📂_Code_Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/samy-touddimte/MacroTrack)
-
 ---
 
 ## Stats GitHub
