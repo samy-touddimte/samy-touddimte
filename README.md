@@ -15,7 +15,6 @@
 - **Île-de-France** · Disponible **septembre 2026**
 - **Projet phare** : **MacroTrack** — moteur métabolique avec algorithme EWMA
 - **Passionné par les maths appliquées au code**
-- **Erasmus en Espagne** · Anglais C1
 
 ---
 
