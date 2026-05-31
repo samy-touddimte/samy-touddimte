@@ -62,9 +62,7 @@
 
 ![Streak](https://streak-stats.demolab.com?user=samy-touddimte&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=fr)
 
-![Trophées](https://github-profile-trophy.vercel.app/?username=samy-touddimte&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)
-
-![Profil](https://github-readme-stats.vercel.app/api?username=samy-touddimte&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=fr)
+![Graphe](https://github-readme-activity-graph.vercel.app/graph?username=samy-touddimte&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
