@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Projets
+## Projets
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 </div>
 
 
-### 🔬 MacroTrack — Moteur métabolique intelligent
+### MacroTrack — Moteur métabolique intelligent
 
 > Application full-stack de suivi nutritionnel basée sur un algorithme EWMA pour modéliser la dépense énergétique réelle. Couverture de tests > 70%, pipeline CI/CD complet.
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 Stats GitHub
+## Stats GitHub
 
 <div align="center">
 
@@ -70,11 +70,11 @@
 
 ---
 
-## 📬 Me contacter
+## Me contacter
 
 <div align="center">
 
-Disponible pour une alternance en développement web ou logiciel à partir de **septembre 2026** en Île-de-France.
+Disponible pour une alternance dans le cadre d'un BUT Informatique à partir de **septembre 2026** en Île-de-France.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samy-touddimte-601295290/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-samy-touddimte.vercel.app)
