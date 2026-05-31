@@ -22,35 +22,13 @@
 
 ## 🛠️ Stack technique
 
-**Langages**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+| Langages | Backend | Frontend | BDD & DevOps |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=java" width="40"/> <img src="https://skillicons.dev/icons?i=ts" width="40"/> <img src="https://skillicons.dev/icons?i=python" width="40"/> <img src="https://skillicons.dev/icons?i=c" width="40"/> | <img src="https://skillicons.dev/icons?i=spring" width="40"/> <img src="https://skillicons.dev/icons?i=postman" width="40"/> | <img src="https://skillicons.dev/icons?i=react" width="40"/> <img src="https://skillicons.dev/icons?i=nextjs" width="40"/> <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> <img src="https://skillicons.dev/icons?i=vite" width="40"/> | <img src="https://skillicons.dev/icons?i=postgres" width="40"/> <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> <img src="https://skillicons.dev/icons?i=docker" width="40"/> <img src="https://skillicons.dev/icons?i=githubactions" width="40"/> <img src="https://skillicons.dev/icons?i=linux" width="40"/> |
 
-**Backend & Architecture**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/API_REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Bases de données & DevOps**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
 ---
 
