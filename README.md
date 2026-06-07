@@ -9,7 +9,7 @@
 
 ### Présentation
 
-- **B.U.T. Informatique – Parcours Réalisation d’Applications ** en recherche d'une alternance
+- **B.U.T. Informatique – Parcours Réalisation d’Applications** en recherche d'une alternance
 - **Île-de-France** · Disponible **septembre 2026**
 - **Projet phare** : **MacroTrack** — moteur métabolique avec algorithme EWMA
 
