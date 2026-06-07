@@ -7,14 +7,11 @@
 ---
 
 
-### Qui suis-je ?
+### Présentation
 
-Étudiant en informatique avec une formation scientifique et ingénieur (**ESEO Paris-Vélizy** + **Licence Maths @ UVSQ**)
-
-- **Candidat BUT 3 Informatique** & alternance dev web/logiciel
+- **B.U.T. Informatique – Parcours Réalisation d’Applications ** en recherche d'une alternance
 - **Île-de-France** · Disponible **septembre 2026**
 - **Projet phare** : **MacroTrack** — moteur métabolique avec algorithme EWMA
-- **Passionné par les maths appliquées au code**
 
 ---
 
