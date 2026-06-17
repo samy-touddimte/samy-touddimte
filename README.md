@@ -1,12 +1,3 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Enchanté%2C+je+me+présente+:;Samy+Touddimte;Étudiant+en+informatique;Développement+%7C+Data+Science;BUT+%26+Alternance)](https://git.io/typing-svg)
-
-</div>
-
----
-
-
 ### Présentation
 
 - **B.U.T. Informatique – Parcours Réalisation d’Applications** en recherche d'une alternance
